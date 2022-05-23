@@ -1,0 +1,6 @@
+module Pods_CrossPlatform_CrossPlatformTests {
+  umbrella header "Pods-CrossPlatform-CrossPlatformTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

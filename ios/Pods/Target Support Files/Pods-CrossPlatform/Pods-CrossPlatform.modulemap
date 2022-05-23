@@ -1,0 +1,6 @@
+module Pods_CrossPlatform {
+  umbrella header "Pods-CrossPlatform-umbrella.h"
+
+  export *
+  module * { export * }
+}
